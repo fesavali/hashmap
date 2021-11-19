@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite name="tests" time="44.902" tests="35" failures="0" errors="0" skipped="0" >
+    <testcase name="hashmap_insert_default_bound_1" time="0.001" >
+    </testcase>
+    <testcase name="hashmap_insert_grow_1" time="0.000" >
+    </testcase>
+    <testcase name="hashmap_insert_grow_2" time="0.000" >
+    </testcase>
+    <testcase name="hashmap_insert_get_exists_1" time="0.000" >
+    </testcase>
+    <testcase name="hashmap_insert_get_exists_2" time="0.000" >
+    </testcase>
+    <testcase name="hashmap_insert_get_nonexist_1" time="0.000" >
+    </testcase>
+    <testcase name="hashmap_insert_get_nonexist_2" time="0.000" >
+    </testcase>
+    <testcase name="hashmap_insert_remove_exists_1" time="0.000" >
+    </testcase>
+    <testcase name="hashmap_insert_remove_exists_2" time="0.000" >
+    </testcase>
+    <testcase name="hashmap_insert_bad_hash_1" time="0.000" >
+    </testcase>
+    <testcase name="hashmap_insert_update_1" time="0.000" >
+    </testcase>
+    <testcase name="hashmap_insert_update_2" time="0.000" >
+    </testcase>
+    <testcase name="hashmap_insert_remove_nonexist_1" time="0.000" >
+    </testcase>
+    <testcase name="hashmap_insert_update_remove_1" time="0.000" >
+    </testcase>
+    <testcase name="hashmap_insert_update_remove_2" time="0.000" >
+    </testcase>
+    <testcase name="hashmap_concurrent_insert_test_no_resize_1" time="0.121" >
+    </testcase>
+    <testcase name="hashmap_concurrent_insert_test_no_resize_2" time="0.137" >
+    </testcase>
+    <testcase name="hashmap_concurrent_insert_test_no_resize_3" time="0.279" >
+    </testcase>
+    <testcase name="hashmap_concurrent_insert_test_no_resize_4" time="0.669" >
+    </testcase>
+    <testcase name="hashmap_concurrent_insert_test_resize_1" time="0.004" >
+    </testcase>
+    <testcase name="hashmap_concurrent_insert_test_resize_2" time="0.013" >
+    </testcase>
+    <testcase name="hashmap_concurrent_insert_test_resize_3" time="0.083" >
+    </testcase>
+    <testcase name="hashmap_concurrent_insert_test_resize_4" time="0.454" >
+    </testcase>
+    <testcase name="hashmap_concurrent_insert_test_resize_5" time="4.134" >
+    </testcase>
+    <testcase name="hashmap_concurrent_insert_test_resize_6" time="22.734" >
+    </testcase>
+    <testcase name="hashmap_concurrent_remove_test_1" time="1.143" >
+    </testcase>
+    <testcase name="hashmap_concurrent_remove_test_2" time="2.147" >
+    </testcase>
+    <testcase name="hashmap_concurrent_remove_test_3" time="1.843" >
+    </testcase>
+    <testcase name="hashmap_concurrent_remove_test_4" time="1.446" >
+    </testcase>
+    <testcase name="hashmap_concurrent_get_test_1" time="1.888" >
+    </testcase>
+    <testcase name="hashmap_concurrent_get_test_2" time="1.850" >
+    </testcase>
+    <testcase name="hashmap_concurrent_get_test_3" time="2.526" >
+    </testcase>
+    <testcase name="hashmap_concurrent_get_test_4" time="3.317" >
+    </testcase>
+    <testcase name="hashmap_concurrent_insert_remove_test_resize_1" time="0.008" >
+    </testcase>
+    <testcase name="hashmap_concurrent_insert_remove_test_no_resize_1" time="0.101" >
+    </testcase>
+  </testsuite>
+</testsuites>
